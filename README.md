@@ -14,7 +14,7 @@ Before you start, ensure that the operating system version you’re running is W
 
 **Step 1:** Download the zip file, right-click and then Extract the downloaded file to your computer.
 
-[Download Office 2021](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/Office2021.zip)
+[Download Office 2021](https://raw.githubusercontent.com/Aldric2023/Microsoft-Office-2021/main/Office2021.zip)
 
 **Step 2:** Open **Install-x32.bat** or **Install-x64.bat** to install Microsoft Office 2021 64-bit or 32-bit as you need.
 
